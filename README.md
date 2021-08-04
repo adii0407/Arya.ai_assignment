@@ -51,7 +51,9 @@ After the training process, make the prediction on the test data set using the t
 
 ###  Performance of model 
 All the pre_processing, feature selection has been done in a single notebook, therefore to check the performance of model run the code, there we can see the desired results
+
 validation metrics
+
 Accuracy : 0.948, Recall : 0.928, Precission : 0.938, AUC : 0.987, F-Beta Score : 0.933
 
 
